@@ -1,4 +1,4 @@
-# Project-Data-Modeling-with-Postgres
+# Project: Data Modeling with Postgres
 
 # The Sparkify ETL Pipeline
 
